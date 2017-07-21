@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/ionic-push-notifications",
+    "name": "bfgasparin/ionic-push-notifications",
     "description": "Ionic Push Notifications driver",
     "homepage": "https://github.com/laravel-notification-channels/ionic-push-notifications",
     "license": "MIT",
